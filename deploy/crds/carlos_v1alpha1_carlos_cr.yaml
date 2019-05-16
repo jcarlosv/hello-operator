@@ -1,0 +1,7 @@
+apiVersion: carlos.example.com/v1alpha1
+kind: Carlos
+metadata:
+  name: example-carlos
+spec:
+  # Add fields here
+  size: 3
